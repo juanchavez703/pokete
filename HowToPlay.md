@@ -13,131 +13,145 @@
 10. [Settings](#settings)
 11. [Trading](#trading)
 12. [Shiny Poketes](#shiny-poketes)
-13. [Poketes-dex](#poketes-dex)
+13. [Pokete-dex](#pokete-dex)
 14. [Learning Attacks](#learning-attacks)
 15. [Learning Discs](#learning-discs)
 
 
 ## Plot
-The plot of the game is that you--a ten year old boy/girl/whatever--are running around in the world doing what ten years olds do: catching little creatures (Poketes) and letting them fight against other little creatures.
+You are an adventurous 10-year old kid--represented by an `a` in-game--exploring a world full of little creatures, called Poketes.
 
-You are on a journey to explore the world and catch all Poketes. Along the way you will meet many different NPCs that may or may not be nice to you.
+Throughout your journey, you will encounter wild Poketes and other Pokete trainers seeking a battle. Catch wild Poketes and use them in battle to help you conquer trainers and catch different types of wild Poketes. Level up your Poketes by using them in battle and try to catch them all!
 
 ## Controls
-After first starting the game you can move the character, the one little `a` on the screen using `w`, `a`, `s` and `d`.
+Once you start the game, move your character by using the `W`, `A`, `S`, and `D` keys.
 
 ![Map](assets/ss/ss08.png)
 
-You can open the settings/menu by pressing `e`.
+Open the settings/menu by pressing, `E`.
 
 ![Menu](assets/ss/ss07.png)
 
-In this type of menu you can navigate using `w` and `s` to move the cursor and `enter` to select the option. To exit just press `Esc` or `q`.
+Navigate this menu using `W` and `S` to move the cursor and `enter` to select an option. To exit, press `esc` or `Q`.
 
 ## Fights
-
-When going onto the green grass patch you may get attacked by a wild Pokete.
+Walking into a green grass patch may result in you getting attacked by a wild Pokete.
 
 ![Grass](assets/ss/ss09.png)
 
 ![Grass](assets/ss/ss10.png)
 
-Now you have several options to choose from, you can attack and weaken the Pokete to catch it, run away, or choose another Pokete.
+Once engaged by a wild Pokete, you may:
 
-To attack, just press `1` and a little selection window opens where you can choose from your attacks. You can ether navigate the cursor to the attack you want to choose (using `w` and `s`) and then press `enter`, or you just type in the number before the attack name.
+`1` Attack the Pokete until it is weak enough to catch with a [Poketeball](#poketeballs).
 
-The Number behind the name are the AP (Attack Points) of the attack (The number of times you can use the attack and the number of uses you have remaining).
+`2` Run away.
+
+`3` Open your [Inventory](#inventory) to select an item.
+
+`4` Open your deck to select a different Pokete.
+
+To attack, press `1`. A little window with your available attacks will pop up. Press the number next to your desired attack to execute said attack. Otherwise, you may use `W` and `S` to navigate to your desired attack. Then, click `enter`. 
+
+The number displayed next to an attack represents its AP--or Attack Points. AP refers to the number of uses you have remaining for each attack. Keep an eye on your AP and select your attacks wisely!
 
 ![Attacking](assets/ss/ss11.png)
 
-When you fight until the enemy Pokete's HP is low (like 1 to 3 HP), you can try to catch it. By pressing `3` you can open your inventory where you can choose from the items you have. By pressing `enter` you can use your chosen item. In the case of trying to catch the opposing Pokete, you should select the Poketeball.
+If you wish to catch a wild Pokete, try executing attacks until the enemy Pokete's HP-- or Health Points--is below 3. Once you've weakened it, press `3` to open your inventory. Navigate to your [Inventory](#inventory) and select "Poketeballs".
 
 ![Catching](assets/ss/ss12.png)
 
-Catching a Pokete may not be successful on the first try.
-You can also kill the Pokete and gain XP for your Pokete.
+You won't always catch a Pokete on the first try. If unsuccessful, you can always try again! Otherwise, you may defeat the enemy Pokete to gain XP--Experience Points--for your Pokete.
 
 ## Trainers
-Trainers are other ten years old Pokete trainers just like you. They are the other `a`s you may encounter on the map. They will talk to you and then start a fight; the only difference between a trainer fight and a normal fight is that you cannot run away from a trainer fight and cannot catch the enemys' Pokete. They will give you $20 if you win.
+The Pokete world is full of trainers just like you! They are NPCs--non-playable characters-- represented by an `a` on the map. Trainers love nothing more than to battle their Poketes and test themselves against other trainers. Prepare for an inescapable battle if you step too close! Win a battle against a trainer and you'll receive a $20 reward. 
+
+_Note: You can't run away or catch a fellow trainers Pokete in battle!_
 
 ## Inventory
-By Pressing `4` you can open your inventory. This is  where you can see all of your items, their amounts, and how much money you have. By selecting an item with the cursor and pressing `enter` you can see the item's description. To exit, just press `Esc` or `q`.
+Press `4` to open your inventory. Here, you can view your items, the quantity of each item, and how much money you have. Select an item to view the item's description. To exit, press `Esc` or `Q`.
 
 ![Inv](assets/ss/ss18.png)
 
-By having an item selected and pressing `r` you can remove it from your inventory.
+To remove an item from your inventory, select an item then press `R`.
 
 ## Minimap
-By pressing `3` you can open a map of the complete Pokete world where you can see and select all Routes/Towns on the map. You can select and navigate by using `w`, `a`, `s` and `d`. To exit just press `Esc` or `q`.
+Press `3` to view a map of the Route or Town you're currently exploring. Navigate the menu using `W`, `A`, `S`, and `D` then select with `enter`. To exit, press `Esc` or `Q`.
 
 ![Map](assets/ss/ss19.png)
 
 ## Pokete centers
-On your journey through the Pokete world you may discover the some houses. 
+On your journey through the Pokete world you will encounter a variety of buildings. 
 
-Some of those houses are Pokete centers where you can heal your wounded Poketes and reorganize your deck.
+Among those buildings, are Pokete centers where you can heal your wounded Poketes and reorganize your Pokete deck.
 
 ![Center](assets/ss/ss13.png)
 
-By going up to the person behind the counter you can interact with them. 
+Walk up to the person behind the counter to interact with them. 
 
 ![Center](assets/ss/ss14.png)
 
 ## Pokete shops
-In some towns there are also shops present where you can by items like Potions and Poketeballs.
+Some towns have shops where you can buy items like Potions and Poketeballs.
 
 ![Shop](assets/ss/ss15.png)
 
-By going up to the person behind the counter you can interact with them. 
+Walk up to the person behind the counter to interact with them. 
 
 ![Shop](assets/ss/ss16.png)
 
-To by an item just navigate the cursor to it and press `enter`. The item will then be added to your inventory. To exit just press `Esc` or `q`.
+To buy an item, navigate your cursor to your desired item and press `enter`. The item will then be added to your [Inventory](#inventory). To exit, press `Esc` or `Q`.
 
 ## Poketeballs
-Poketeballs are needed to catch Poketes. You can see how many Poketeballs you have in your Inventory, buy them in the [Pokete shop](#pokete-shops) and find them on the map.
-They are the small red balls hidden all over the map, and can be collected by just walking over them.
+Use Poketeballs to catch Poketes. You can see how many Poketeballs you have in your [Inventory](#inventory). If you're running low or out of Poketeballs, buy them in a [Pokete shop](#pokete-shops) or explore the world for Poketeballs that have been left by other trainers!
+
+Poketeballs are represented by small red circles and are hidden all over the map. Collect them by walking over them.
 
 ![Balls](assets/ss/ss17.png)
 
 ## Settings
-In the game's menu/settings you can change the players name, save, exit, or change other settings. To exit just press `Esc` or `q`.
+Press `E` to open the settings/menu. Here, you can change your trainer's name, save your game, exit the game, or change other game settings. To exit this menu, press `Esc` or `Q`.
 
 ![Settings](assets/ss/ss20.png)
 
 ## Trading
-When you're in the same network as another Pokete-player you can trade one of your Poketes for one of theirs.
-In the Pokete-center stands another NPC, the trader, who you can talk to and start the trade.
+There is an NPC trader in [Pokete centers](#pokete-centers) that you can trade Poketes with. Talk to them and start trading!
+If you're in the same network as another Pokete-player, you can also trade one of your Poketes for one of theirs. 
 
 ![trading](assets/ss/ss21.png)
 
-One of the two players must be the host while the other is the guest. The host has to start the trade first for it to work.
+When trading with another player in your network, keep in mind that one player is the host and the other is the guest. The host must be the one to start the trade.
 
 ![trading](assets/ss/ss22.png)
 
 When prompted, the guest must type in the hostname of the host's computer displayed on the host's display.  
-You may run into problems with firewalls.
+
+_Note: You may run into problems with firewalls._
 
 ![trading](assets/ss/ss23.png)
 
 ## Shiny Poketes
-Shiny Poketes are rare to find (chance 1/500) and have 2 points more of attack, defense, and initiative as well as 5 HP more than normal. Their names are highlighted yellow. 
+Shiny Poketes are rare (1/500 chance) and much stronger than regular wild Poketes. Shiny Poketes have an additional 2 points of attack, defense, and initiative. They also 5 HP more than regular wild Poketes. Shiny Poketes' names are highlighted yellow. Keep an eye out for these rare Poketes and do your best to catch them! 
 
 ![shiny](assets/ss/ss24.png)
 
 ## Pokete-dex
-The Pokete dex is made for the user to keep track of all Poketes they ever caught along with their stats. It does not list individual Poketes, but instead the Pokete 'race' itself. Poketes your never caught are shown with a "???".
+Press `5` to access your Pokete-dex.
 
-It can be accessed by pressing 5 in the main game.
+The Pokete dex displays all of the different Poketes you've captured as well as the stats of each Pokete type. Poketes you failed to catch or are yet to encounter are represented by "???".
 
 ![dex](assets/ss/ss25.png)
 
 ## Learning Attacks
-Every fifth level, a Pokete will try to learn a new attack. If the number of attacks a Pokete has is already four, the player will be prompted to choose which attack will be replaced by the new one, otherwise it will just be added to the existing attacks.
+Level up your Poketes to learn new attacks! Every fifth level, a Pokete will try to learn a new attack. 
 
 ![learning](assets/ss/ss26.png)
+
+If your Pokete already knows four attacks, you must choose to replace an existing attack with the new attack or discard the new attack. If your Pokete does not yet know four attacks, the new attack will be automatically learned.
 
 ![learning](assets/ss/ss27.png)
 
 ## Learning-Discs
-LDs are DVD-like items you can find on the map which can be used to teach a special attack to a Pokete. They can only be used once!
+LDs--or Learning Discs--can be used to teach a Pokete a special attack. Explore the Pokete world to find hidden LDs scattered throughout the map! 
+
+_Note: LDs may only be applied once! Think carefully before applying an LD to one of your Poketes._
